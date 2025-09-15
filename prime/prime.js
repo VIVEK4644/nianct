@@ -1,7 +1,7 @@
 var prime = prompt("Enter the input");
 
 
-var num = parseInt(prime);
+var num = parseInt(prime);//prime
 var count=0;
 for(let i=1;i<=num;i++)
 {
